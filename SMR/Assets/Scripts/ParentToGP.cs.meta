@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 64bb4f6c8aa069d46985e63f6b718791
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerBody: {instanceID: 0}
+  - GorillaPlayerCap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
